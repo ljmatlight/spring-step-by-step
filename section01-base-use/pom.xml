@@ -4,16 +4,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.galsang</groupId>
-    <artifactId>section-02-source-code</artifactId>
+    <artifactId>section01-base-use</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>${project.artifactId}</name>
-    <description>一步一步剖析spring源码</description>
-
+    <description>一步一步学习使用spring</description>
 
     <modules>
-        <!--<module>chapter01</module>-->
+        <module>chapter02-ioc</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

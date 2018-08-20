@@ -4,12 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.galsang</groupId>
-    <artifactId>section-01-base-use</artifactId>
+    <artifactId>section02-source-code</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>${project.artifactId}</name>
-    <description>一步一步学习使用spring</description>
+    <description>一步一步剖析spring源码</description>
+
 
     <modules>
         <!--<module>chapter01</module>-->
